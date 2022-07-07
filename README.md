@@ -3,7 +3,7 @@
 ### ↪ Link para o site 😀👇
 ## https://rafarz76.github.io/Dio_Projeto_Instagram/
 
-### 🌐 Esse projeto foi realizado a reestruturação do Instagram do curso DIO em Front End. Usando as ferramentas HTML,  CSS com responsivo;
+### 🌐 Esse projeto foi realizado a reestruturação da página do Instagram do curso DIO em Front End. Usando as ferramentas HTML,  CSS com responsivo;
 
 ### 🔵 Projeto com criação de imagens.
 
