@@ -17,4 +17,4 @@
 
 ▶ 😀👀 Bora lá....
 
-Gostou, então já deixa a 🌟
+Gostou, então já marca a 🌟
