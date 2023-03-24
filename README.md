@@ -1,9 +1,13 @@
 ## Olá 👋;
 
+<br>
+
+# <div align="center">
+# <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="95" width="95"> 
+
 ### [Clique aqui para acessar o Projeto](https://rafarz76dev.github.io/Dio_Projeto_Instagram/)
 
-***
-  <img src="img/projetodio-clone-instagram.png" align="center" height="500em" width="100%" href=https://rafarz76dev.github.io/Dio_Projeto_Instagram/">
+<img src="projetodio-clone-instagram.png" align="center" height="500em" width="100%"> 
 
 ### 🌐 Esse projeto foi realizado a reestruturação da página do Instagram do curso DIO em Front End. Usando as ferramentas HTML,  CSS com responsivo;
 
